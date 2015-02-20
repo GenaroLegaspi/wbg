@@ -1,7 +1,7 @@
 <?php
 	include 'dbconnect.php';
 	
-	session start;
+	session_start();
 	
 			$acctid = 1000000001;
 			$accttype = "Admin";
@@ -13,8 +13,8 @@
 			$address = "Region 7";
 			$status = 1;
 			
-			$com = "INSERT INTO accts(acctid,accttype,name,email,password,password2,company,address,status)VALUES('$acctid','$accttype','$name','$email','$password','$password2','$company','$address','$status')"
+			$com = "INSERT INTO accts(acctid,accttype,acctname,email,password,password2,company,address,status)VALUES('$acctid','$accttype','$name','$email','$password','$password2','$company','$address','$status')";
 			mysql_query($com);
-			echo "<script> alert ('You are now registered!!!')</script>"
+			echo "<script>alert('You are now registered!!!')</script>"
 
 ?>
