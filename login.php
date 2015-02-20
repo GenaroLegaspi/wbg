@@ -18,7 +18,7 @@
     		</div>
     		<div class="col-md-7">
     			<br>
-    			<form class="form-inline">
+    			<form class="form-inline push-right">
   						<div class="form-group">
     						<label for="exampleInputName2">Username</label>
     						<input type="text" class="form-control" id="exampleInputName2">
@@ -27,7 +27,7 @@
     						<label for="exampleInputName2">Password</label>
     						<input type="text" class="form-control" id="exampleInputName2" >
   						</div>
-  						<button type="submit" class="btn btn-default">Send invitation</button>
+  						<button type="submit" class="btn btn-default">Login</button>
   				</form>
     		</div>
   		
