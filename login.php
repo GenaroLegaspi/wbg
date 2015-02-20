@@ -27,7 +27,11 @@
     						<label for="exampleInputName2">Password</label>
     						<input type="text" class="form-control" id="exampleInputName2" >
   						</div>
+<<<<<<< HEAD
   						<button type="submit" class="btn btn-default">Login</button>
+=======
+  						<button type="submit" class="btn btn-default">Send invitation</button>
+>>>>>>> ec134e26b2a022c0885495d7f09f9f0e93b7beb6
   				</form>
     		</div>
   		
