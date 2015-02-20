@@ -36,6 +36,7 @@
 		</nav>
 		<ul class="nav nav-tabs">
   			<li role="presentation" class="active"><a href="#">Home</a></li>
+        <li role="presentation"><a href="#">About Us</a></li>
   			<li role="presentation"><a href="#">Benefeciaries</a></li>
   			<li role="presentation"><a href="#">Events</a></li>
 		</ul>
