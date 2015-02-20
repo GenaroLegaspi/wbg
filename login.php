@@ -13,7 +13,7 @@
   		<div class="container-fluid">
   			<div class="col-md-5">
     			<div class="navbar-header">
-      				<h1>World Be Green</h1>	
+            <h1><img src="finallogo.jpg">World Be Green</h1>	
     			</div>
     		</div>
     		<div class="col-md-7">
