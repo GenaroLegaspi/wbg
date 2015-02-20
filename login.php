@@ -36,15 +36,23 @@
 		</nav>
 		<ul class="nav nav-tabs">
   			<li role="presentation" class="active"><a href="#">Home</a></li>
-  			<li role="presentation"><a href="#">Benefeciaries</a></li>
+  			<li role="presentation"><a href="#">About Us</a></li>
+        <li role="presentation"><a href="#">Benefeciaries</a></li>
   			<li role="presentation"><a href="#">Events</a></li>
 		</ul>
     <div class="container">
     <div class="rows">
       <div class="col-md-12">
             <div class="homepic">
-              <div class="col-md-7">
 
+              <div class="col-md-7">
+                  <div class="homepic">
+                  <br>
+                  <br>
+                  <h1>Never doubt that a small group of thoughtful, 
+                  committed citizens can change the world. Indeed, it is the only thing that ever has
+                  <br>-Margaret Mead</h1>
+                  </div>
               </div>
 
             </div>
