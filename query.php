@@ -1,7 +1,7 @@
 <?php
 	include 'dbconnect.php';
 	
-	session start;
+	session_start();
 	
 			$acctid = 1000000001;
 			$accttype = "Admin";
